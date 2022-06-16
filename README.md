@@ -21,7 +21,7 @@ Ağırlıklı normalize edilmiş değerlere göre pozitif-ideal çözüm ( ) ve 
 
 Adım 5: Ayırım Ölçülerinin Hesaplanması: 
 Alternatifler arasındaki mesafe, n boyutlu Öklid Uzaklık Yaklaşımından faydalanılarak bulunmaktadır. Her alternatifin pozitif-ideal çözümden olan mesafesi ( ) ve negatif-ideal çözümden olan mesafesi (   ) şu şekilde hesaplanmaktadır: 
-![image](https://user-images.githubusercontent.com/83714984/174067544-5f5c02dc-e180-4f38-be76-890a1166bcc3.png)
+![image](https://user-images.githubusercontent.com/83714984/174067544-5f5c02dc-e180-4f38-be76-890a1166bcc3.png) 
 
 Adım 6: İdeal Çözüme Göreli Yakınlığın Hesaplanması
 Her bir alternatifin ideal çözüme göreli yakınlığı (  ) pozitif-ideal ve negatif-ideal ayırım ölçüsüne göre; negatif-ideal ayırım ölçüsünün toplam ayırım ölçüsü içindeki payı şeklinde aşağıdaki gibi hesaplanır: 
