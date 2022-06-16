@@ -18,8 +18,8 @@ Adım 3: Normalize Edilmiş Karar Matrisinin Ağırlıklandırılması
 Adım 4: İdeal ve Negatif İdeal Çözümlerin Belirlenmesi
 Ağırlıklı normalize edilmiş değerlere göre pozitif-ideal çözüm ( ) ve negatif-ideal çözüm ( belirlenir. İdeal çözüm setinin bulunması aşağıdaki formülde gösterilmiştir.
 ![image](https://user-images.githubusercontent.com/83714984/174067504-ec968c55-56a5-4856-a116-171368ccde1d.png)
-
 Her iki formülde de J fayda (maksimizasyon)   ise kayıp (minimizasyon) değerini göstermektedir. Hem pozitif ideal hem de negatif ideal noktaların çözümleri belirtilen kriterlerin durumlarını hesaplamaktadır. 
+
 Adım 5: Ayırım Ölçülerinin Hesaplanması: 
 Alternatifler arasındaki mesafe, n boyutlu Öklid Uzaklık Yaklaşımından faydalanılarak bulunmaktadır. Her alternatifin pozitif-ideal çözümden olan mesafesi ( ) ve negatif-ideal çözümden olan mesafesi (   ) şu şekilde hesaplanmaktadır: 
 ![image](https://user-images.githubusercontent.com/83714984/174067544-5f5c02dc-e180-4f38-be76-890a1166bcc3.png)
