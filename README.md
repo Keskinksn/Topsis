@@ -25,7 +25,7 @@ Matrisin gösterimi aşağıdaki gibidir.
 
 ![image](https://user-images.githubusercontent.com/83714984/174070477-fab34162-3bfa-4c56-8998-9b3ee698c51a.png)
 
-Adım 3: Normalize Edilmiş Karar Matrisinin Ağırlıklandırılması
+Adım 3: Normalize Edilmiş Karar Matrisinin Ağırlıklandırılması 
 Öncelikle kriterlere ilişkin ağırlık değerleri ( ) belirlenir . Daha sonra  matrisinin her bir sütunundaki elemanlar ilgili  değeri ile çarpılarak ağırlıklı normalize matrisi olarak ifade edilen  oluşturulur.  
 
 ![image](https://user-images.githubusercontent.com/83714984/174070434-0af99328-9e33-4bd5-9dc7-4f32f22cd7c6.png)
