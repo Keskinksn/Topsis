@@ -9,9 +9,9 @@ Yöntemin ilk aşamasında her bir alternatifin performans değerinin her bir kr
 Adım 2: Standart Karar Matrisinin (R) Oluşturulması
 Olarak ifade edilen normalize edilmiş karar matrisi matrisinin elemanlarından yararlanarak ve aşağıdaki formül kullanılarak hesaplanır.
 ![image](https://user-images.githubusercontent.com/83714984/174067436-8fcb1c0e-fe61-4a4e-8715-dff6dec4494a.png) 
-Matrisin gösterimi aşağıdaki gibidir. ![image](https://user-images.githubusercontent.com/83714984/174067454-d7e7b822-1903-4e63-8036-e8a75a4e6156.png)
+Matrisin gösterimi aşağıdaki gibidir.
+![image](https://user-images.githubusercontent.com/83714984/174067454-d7e7b822-1903-4e63-8036-e8a75a4e6156.png)
 
- 
 Adım 3: Normalize Edilmiş Karar Matrisinin Ağırlıklandırılması
 Öncelikle kriterlere ilişkin ağırlık değerleri ( ) belirlenir . Daha sonra  matrisinin her bir sütunundaki elemanlar ilgili  değeri ile çarpılarak ağırlıklı normalize matrisi olarak ifade edilen  oluşturulur.
 ![image](https://user-images.githubusercontent.com/83714984/174067473-1eb1788f-5b92-4d95-aaa9-5dc2ee7a4024.png)
