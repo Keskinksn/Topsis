@@ -4,11 +4,11 @@ https://www.kaggle.com/datasets/rohanharode07/webmd-drug-reviews-dataset
 ## TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) Yöntemi
 
 TOPSIS yöntemi, 6 aşamalı bir süreçten oluşmaktadır. TOPSIS yönteminin adımları aşağıda açıklanmıştır.
-•	Alternatiflerin ve kriter ağırlıklarının belirlenmesi
-•	Normalize ve ağırlıklı karar matrisinin oluşturulması
-•	Pozitif ideal noktası, Negatif ideal noktası çözümlerinin belirlenmesi
-•	Ayırım ölçütlerinin belirlenmesi
-•	İdeal çözüme yakınlığın hesaplanması
+•	Alternatiflerin ve kriter ağırlıklarının belirlenmesi 
+•	Normalize ve ağırlıklı karar matrisinin oluşturulması 
+•	Pozitif ideal noktası, Negatif ideal noktası çözümlerinin belirlenmesi 
+•	Ayırım ölçütlerinin belirlenmesi 
+•	İdeal çözüme yakınlığın hesaplanması 
 •	Sıralama ve tercihin yapılması
 
 Adım 1: Karar Matrisinin(A) Oluşturulması
