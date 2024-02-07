@@ -34,7 +34,7 @@ Alternatifler arasındaki mesafe, n boyutlu Öklid Uzaklık Yaklaşımından fay
 ![image](https://user-images.githubusercontent.com/83714984/174070090-a87371da-1f84-49d7-8e7b-0c9692280221.png)
 
 Adım 6: İdeal Çözüme Göreli Yakınlığın Hesaplanması
-Her bir alternatifin ideal çözüme göreli yakınlığı (  ) pozitif-ideal ve negatif-ideal ayırım ölçüsüne göre; negatif-ideal ayırım ölçüsünün toplam ayırım ölçüsü içindeki payı şeklinde aşağıdaki gibi hesaplanır:
+Her bir alternatifin ideal çözüme göreli yakınlığı (+) pozitif-ideal ve negatif-ideal ayırım ölçüsüne göre; negatif-ideal ayırım ölçüsünün toplam ayırım ölçüsü içindeki payı şeklinde aşağıdaki gibi hesaplanır:
 
 ![image](https://user-images.githubusercontent.com/83714984/174069783-e90f8bbc-a6a5-49b0-83de-804a3b605764.png)
 
